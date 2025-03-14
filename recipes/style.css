@@ -1,0 +1,16 @@
+h1 {
+    font-weight: bolder;
+    color: orange;
+    font-family: Monaco, sans-serif;
+}
+
+.content {
+    text-align: center;
+    background-color: orange;
+}
+
+#lists {
+    text-align: left;
+    background-color: black;
+    color: white;
+}
